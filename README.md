@@ -1,7 +1,7 @@
 # Sobre mim
 - 👋 Hi, I’m @AnaLu551
 - :+1: Meu email de contato é anaklieman2016@gmail.com
-- 👀 namorando @gato007
+- 👀 eu estou aprendendo a progamar recentemente a linguagem de Javascript
 - 🌱 +55
 
 <!---
